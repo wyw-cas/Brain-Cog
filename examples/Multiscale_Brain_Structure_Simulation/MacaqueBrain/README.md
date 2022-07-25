@@ -33,11 +33,8 @@ To simulate the models (both human and macaque brain), the parameters of the neu
 ## Citations:
 If you find this package helpful, please consider citing the following papers:
 
-@Article{Liu2016,
-author={Liu, Xin
-and Zeng, Yi
-and Zhang, Tielin
-and Xu, Bo},
+@article{Liu2016,
+author={Liu, Xin and Zeng, Yi and Zhang, Tielin and Xu, Bo},
 title={Parallel Brain Simulator: A Multi-scale and Parallel Brain-Inspired Neural Network Modeling and Simulation Platform},
 journal={Cognitive Computation},
 year={2016},
